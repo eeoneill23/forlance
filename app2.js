@@ -4,7 +4,7 @@ const saveFile = require('objects-to-csv')
 const fs = require('fs')
 
 
-const url = 'https://nuleafnaturals.com/locations/'
+const url = ''
 const parsedResults = []
 const pageLimit = 10
 let pageCounter = 0
